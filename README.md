@@ -22,7 +22,7 @@ This project demonstrates a simple automation script using Selenium in Python to
 ## 📸 Screenshots
 
 1. **Auto-filled Sign-Up Page**
-   <img src="signup">
+   <img src="signup.png">
 
 2. **Confirmation Page After Successful Submission**
-   <img src="success">
+   <img src="success.png">
